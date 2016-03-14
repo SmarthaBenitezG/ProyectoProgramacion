@@ -47,8 +47,17 @@
     <string name="emailP4">vanessa.rodriguez@ujcv.edu.hn</string>
     <string name="facebookP4">https://www.facebook.com/vanessarodz11</string>
     <string name="twitterP4">https://twitter.com/</string>
-    
-    
+
+    <!-- PERSONA 5 -->
+    <string name="nombreP5">Fernando Rodríguez Díaz</string>
+    <string name="descripcionP5">We are all masters of our own world, the world ends with you.</string>
+    <string name="edadP5">19</string>
+    <string name="carreraP5">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP5">Soltero</string>
+    <string name="telefonoP5">31890472</string>
+    <string name="emailP5">fernando.rodriguez@ujcv.edu.hn</string>
+    <string name="facebookP5">https://www.facebook.com/fernando.rodriguezdiaz.33</string>
+    <string name="twitterP5">https://twitter.com/FLCClown</string>
     
     <!-- PERSONA 6 -->
     <string name="nombreP6">Jeffrey Aplicano</string>

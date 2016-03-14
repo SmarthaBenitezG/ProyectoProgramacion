@@ -105,6 +105,21 @@ public class Personas {
                         
                         
          );
+
+        PERSONAS_LIST.add(new Personas(R.string.nombreP5,
+                        R.string.descripcionP5,
+                        R.string.edadP5,
+                        R.string.carreraP5,
+                        R.drawable.ferrodriguez,
+                        R.string.estadocivilP5,
+                        R.string.telefonoP5,
+                        R.string.emailP5,
+                        R.string.facebookP5,
+                        R.string.twitterP5)
+
+
+
+        );
         PERSONAS_LIST.add(new Personas(R.string.nombreP6,
                         R.string.descripcionP6,
                         R.string.edadP6,
